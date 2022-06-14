@@ -1,2 +1,3 @@
 This FileA 
 GİTHUB ÖZEL
+Github üzerinde düzelttim
